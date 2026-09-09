@@ -1,0 +1,7 @@
+2026/09/09-10:48:51.805 3b28 Reusing MANIFEST E:\UFO_AI\safe\ufolee-portable\webview2_data_Default\EBWebView\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/09/09-10:48:51.805 3b28 Recovering log #6
+2026/09/09-10:48:51.806 3b28 Reusing old log E:\UFO_AI\safe\ufolee-portable\webview2_data_Default\EBWebView\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb/000006.log 
+2026/09/09-10:48:51.806 3b28 Delete type=2 #5
+2026/09/09-10:48:51.809 5c24 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/09/09-10:48:51.809 5c24 Manual compaction at level-1 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/09/09-10:48:51.870 5c24 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

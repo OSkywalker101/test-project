@@ -1,0 +1,18 @@
+2026/09/09-10:47:27.667 6444 Reusing MANIFEST E:\UFO_AI\safe\ufolee-portable\webview2_data_Default\EBWebView\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/09/09-10:47:27.668 6444 Recovering log #3
+2026/09/09-10:47:27.668 6444 Reusing old log E:\UFO_AI\safe\ufolee-portable\webview2_data_Default\EBWebView\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb/000003.log 
+2026/09/09-10:47:27.671 465c Level-0 table #5: started
+2026/09/09-10:47:27.673 465c Level-0 table #5: 2163 bytes OK
+2026/09/09-10:47:27.674 465c Delete type=0 #3
+2026/09/09-10:47:27.674 6444 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/09/09-10:47:27.824 5c24 Level-0 table #7: started
+2026/09/09-10:47:27.825 5c24 Level-0 table #7: 1120 bytes OK
+2026/09/09-10:47:27.827 5c24 Delete type=0 #4
+2026/09/09-10:47:27.827 3b28 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/09/09-10:47:27.827 3b28 Manual compaction at level-1 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x00\x00\xc8\x13\x00D\x00E\x00G\x00R\x00A\x00D\x00E\x00_\x00E\x00V\x00E\x00N\x00T\x00_\x00S\x00T\x00O\x00R\x00E' @ 165 : 1
+2026/09/09-10:47:27.828 3b28 Compacting 1@1 + 1@2 files
+2026/09/09-10:47:27.829 3b28 Generated table #8@1: 31 keys, 830 bytes
+2026/09/09-10:47:27.829 3b28 Compacted 1@1 + 1@2 files => 830 bytes
+2026/09/09-10:47:27.831 3b28 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/09/09-10:47:27.831 3b28 Delete type=2 #7
+2026/09/09-10:47:27.832 3b28 Manual compaction at level-1 from '\x00\x03\x00\x00\xc8\x13\x00D\x00E\x00G\x00R\x00A\x00D\x00E\x00_\x00E\x00V\x00E\x00N\x00T\x00_\x00S\x00T\x00O\x00R\x00E' @ 165 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

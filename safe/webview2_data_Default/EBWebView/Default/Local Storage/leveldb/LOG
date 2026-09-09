@@ -1,0 +1,9 @@
+2026/09/09-10:47:25.775 4618 Reusing MANIFEST E:\UFO_AI\safe\ufolee-portable\webview2_data_Default\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2026/09/09-10:47:25.786 4618 Recovering log #6
+2026/09/09-10:47:25.789 4618 Reusing old log E:\UFO_AI\safe\ufolee-portable\webview2_data_Default\EBWebView\Default\Local Storage\leveldb/000006.log 
+2026/09/09-10:47:34.188 6ec4 Level-0 table #10: started
+2026/09/09-10:47:34.194 6ec4 Level-0 table #10: 206874 bytes OK
+2026/09/09-10:47:34.196 6ec4 Delete type=0 #6
+2026/09/09-10:48:25.801 4618 Level-0 table #12: started
+2026/09/09-10:48:25.806 4618 Level-0 table #12: 14262 bytes OK
+2026/09/09-10:48:25.808 4618 Delete type=0 #9
